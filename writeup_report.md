@@ -53,7 +53,8 @@ follows,
 
 * model.py - Contains the python script to create, train and save the model.
 * drive-py - Drives the car in autonomous mode.
-* model.h5 - The trained and saved convolutional network.
+* model.h5 - The trained and saved convolutional network. Because of it's size the model couldn't be uploaded to
+github, but alternatively, it is made available here, https://drive.google.com/file/d/1wiM1Gy17kyJiiBxYaBTBRtwovHvv6280/view?usp=sharing
 * video.mp4 - A video generated from an autonomous lap around the track.
 * writeup.md - A writeup report which explains the procedure taken.
 
