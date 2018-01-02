@@ -14,9 +14,9 @@ We also want you to create a detailed writeup of the project. Check out the writ
 ## Contents of this repo
 To meet specifications, the project requires submitting five files:
 
-images (folder containing images for documentation)
-model.py (script used to create and train the model)
-drive.py (script to drive the car - feel free to modify this file)
-model.h5 (a trained Keras model)
-writeup_report.md a report writeup file (either markdown or pdf)
-video.mp4 (a video recording of your vehicle driving autonomously around the track for at least one full lap)
+* images (folder containing images for documentation)
+* model.py (script used to create and train the model)
+* drive.py (script to drive the car - feel free to modify this file)
+* model.h5 (a trained Keras model). Since the model can't be updloaded to the github because of its size, it is alternatively available here, https://drive.google.com/file/d/1wiM1Gy17kyJiiBxYaBTBRtwovHvv6280/view?usp=sharing.
+* writeup_report.md a report writeup file (either markdown or pdf)
+* video.mp4 (a video recording of your vehicle driving autonomously around the track for at least one full lap)
